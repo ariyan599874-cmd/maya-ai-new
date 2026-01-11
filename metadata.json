@@ -1,0 +1,7 @@
+{
+  "name": "Maya - Your AI Companion",
+  "description": "A beautiful, emotionally intelligent AI companion powered by Gemini 2.5 Native Audio for real-time voice conversations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
